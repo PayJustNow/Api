@@ -1,2 +1,0 @@
-# Api
-PayJustNow Public API
